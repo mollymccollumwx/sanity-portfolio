@@ -6,14 +6,6 @@ import NavBar from "./components/Navbar";
 
 function App() {
   return (
-  // <BrowserRouter>
-  // <NavBar />
-  //   <Switch>
-  //     <Route component={Home} path='/' exact />
-  //     <Route component={About} path='/about' />
-  //     <Route component={Project} path='/project' />
-  //   </Switch>
-  // </BrowserRouter>\
   <>
   <NavBar />
   <Home />

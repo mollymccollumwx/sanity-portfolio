@@ -5,7 +5,7 @@ import "./Navbar.css";
 
 const Navbar = () => {
   return (
-    <header className="bg-red-600 w-full ">
+    <header className="w-full ">
       <div className="container mx-auto flex justify-between">
         <nav className="flex">
           <Link

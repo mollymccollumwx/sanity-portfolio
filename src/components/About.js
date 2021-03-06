@@ -21,7 +21,7 @@ const About = () => {
     <main id="about">
         {/* <img src={image} alt="background" className="absolute w-full"/> */}
         <div className="p-10 lg:pt-48 container mx-auto">
-            <section className="bg-green-800 rounded-lg shadow-2xl lg:flex p-20">
+            <section className=" bg-green-800 rounded-lg shadow-2xl lg:flex p-20">
                 <img />
                 <div>
                     <h1>
