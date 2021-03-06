@@ -18,9 +18,9 @@ const About = () => {
       .catch(console.error);
   });
   return (
-    <main className="relative">
-        <img src={image} alt="background" className="absolute w-full"/>
-        <div className="p-10 lg:pt-48 container mx-auto relative">
+    <main id="about">
+        {/* <img src={image} alt="background" className="absolute w-full"/> */}
+        <div className="p-10 lg:pt-48 container mx-auto">
             <section className="bg-green-800 rounded-lg shadow-2xl lg:flex p-20">
                 <img />
                 <div>
